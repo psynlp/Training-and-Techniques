@@ -7,6 +7,8 @@
 ### 데이터: 각자 자신의 데이터로 분석
 ### 운영방식: 1.5~2시간 리드발제자 발표 + 0.5시간 데이터 분석 결과 공유 & 질의응답
 
+---
+
 #### github 관리자(github id)
 - [홍남수](https://github.com/sucream)(sucream)
 - [이윤경](https://github.com/yoonlee78)(yoonlee78)
