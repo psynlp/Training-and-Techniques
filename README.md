@@ -23,7 +23,7 @@
 |:--:|:---:|:---:|:---:|
 |1회차|6월 20일|Orientation, 각자 자신의 목표와 분석할 데이터 정하기, NLP 기본 용어|Jiwon Kim|
 |2회차|7월 4일|Tokenization, BOW, Regular expression, POS tagging  소개 + 워드클라우드 실습 (Docker 설치 안되신 분은 사전 컨택)|YK Lee|
-|3회차|7월 18일|soynlpy(https://github.com/lovit/soynlp), Document Classification(Optional)|미정|
+|3회차|7월 18일|soynlpy(https://github.com/lovit/soynlp), Document Classification(Optional)|박희영|
 
 
 ##### 본 정보는 수정될 수 있습니다.
