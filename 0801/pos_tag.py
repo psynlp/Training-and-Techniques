@@ -5,7 +5,7 @@ import time
 from urllib import parse  # 한글을 올바르게 전달하기 위해 인코딩
 import asyncio
 
-pt = re.compile(r'(?P<text>.+?)\((?P<pos>.+):.+\)')
+pt = re.compile(r'(?P<text>.+?)[\*]?\((?P<pos>.+):.+\)')
 
 
 # 주로(Noun: 4, 2) 같은 패턴을 text와 pos로 분리해서 사용하기 위한 정규식

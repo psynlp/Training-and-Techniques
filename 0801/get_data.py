@@ -77,7 +77,7 @@ if __name__ == "__main__":
             series.drop_duplicates(['question'], keep='last')
             # series.to_csv("data.csv", header=True, index=False)
 
-            with open("train_data.txt", "w", encoding="utf-8") as f:
+            with open("train_data2.txt", "w", encoding="utf-8") as f:
                 f.write(" ".join([i for x in pos_tag.new_pos(series.values, discard_stopwords=True) for i in x]))
             break
         if selected_dir not in directory:
